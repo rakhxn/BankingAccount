@@ -1,4 +1,6 @@
-package GeoMetric_abstract;
+package BankingAccountAbstract;
+
+import GeoMetric_abstract.GeometricObject;
 
 public class Savings extends GeometricObject {
     private double width;

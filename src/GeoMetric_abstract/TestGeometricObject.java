@@ -30,4 +30,3 @@ public class TestGeometricObject {
     System.out.println("The perimeter is " + object.getPerimeter());
   }
 }
-

@@ -1,4 +1,6 @@
-package GeoMetric_abstract;
+package BankingAccountAbstract;
+
+import GeoMetric_abstract.GeometricObject;
 
 public class Checking extends GeometricObject {
     private double radius;

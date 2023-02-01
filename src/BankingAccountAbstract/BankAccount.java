@@ -1,4 +1,4 @@
-package GeoMetric_abstract;
+package BankingAccountAbstract;
 
 public abstract class BankAccount {
     private String color = "white";

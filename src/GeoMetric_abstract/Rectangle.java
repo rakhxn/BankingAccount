@@ -1,5 +1,7 @@
 package GeoMetric_abstract;
 
+import GeoMetric_abstract.GeometricObject;
+
 public class Rectangle extends GeometricObject {
   private double width;
   private double height;

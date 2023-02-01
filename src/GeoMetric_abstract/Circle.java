@@ -1,5 +1,7 @@
 package GeoMetric_abstract;
 
+import GeoMetric_abstract.GeometricObject;
+
 public class Circle extends GeometricObject {
   private double radius;
 
